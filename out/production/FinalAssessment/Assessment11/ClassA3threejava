@@ -1,0 +1,16 @@
+/*package Assessment11;
+
+/*
+ * Created by NFP01 on 5/8/2017.
+ */
+public class ClassAthree extends ClassBthree{
+
+    public static void main(String[]args){
+
+    ClassAthree myCommute = new ClassAthree();
+
+    System.out.println(myCommute);
+
+    }
+
+}
